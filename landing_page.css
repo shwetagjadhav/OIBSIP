@@ -70,10 +70,10 @@ nav ul li a:hover::after{
     align-items: center;
     justify-content: space-around;
 }
-.image-gadget, .imp-text{
-    flex-basis: 50%;
+.image-gadgets, .imp-text{
+    flex-basis: 10%;
 }
-.image-gadget{
+.image-gadgets{
     
     padding-right: 40px;
     width: auto;
@@ -88,10 +88,10 @@ nav ul li a:hover::after{
     
 }
 .imp-content p{
-    margin-top: 15px;
+    margin-top: 25px;
     font-size: 25px;
     letter-spacing: 1px;
-    padding-right: 6rem;
+    padding-right: 10rem;
     color: rgb(93, 43, 10);
     font-weight: 500;
     
